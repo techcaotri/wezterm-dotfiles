@@ -42,4 +42,5 @@ return {
          format = 'mailto:$0',
       },
    },
+   ssh_backend = "Ssh2",
 }
